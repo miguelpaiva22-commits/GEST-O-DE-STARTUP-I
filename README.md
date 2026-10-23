@@ -1,6 +1,6 @@
 GESTÃO DE STARTUP I - Prof.Heden Silva
 Dores e Necessidades do Consumidor, certezas, suposições e dúvidas
-Equipe: Miguel e Claysson - 2°D de Informática
+Equipe: Miguel, Claysson, Marcos Vinnicius - 2°D de Informática
 
 1. Dores do Consumidor (O que frustra o público geek)
 Golpes e pirataria: Medo constante de comprar colecionáveis falsificados (como Action Figures réplicas) ou sofrer golpes em transações direto com outros usuários (peer-to-peer).
